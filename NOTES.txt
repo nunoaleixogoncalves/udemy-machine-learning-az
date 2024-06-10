@@ -1,0 +1,16 @@
+Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]
+https://www.udemy.com/course/machinelearning
+
+
+codes, datasets and slides
+https://www.superdatascience.com/pages/machine-learning
+
+
+https://colab.research.google.com/
+google colab
+    - best start to init the jorney of machine learning
+    - all the needed plugins are already installed and ready to run
+    - simple UI
+
+all files for the course
+https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d
